@@ -1,2 +1,3 @@
 # starting-to-code
-what i have learnt
+starting to learn code
+
